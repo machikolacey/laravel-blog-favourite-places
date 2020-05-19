@@ -12,3 +12,6 @@
 This is a blog app using laravel.
 
 
+#image
+<img src="0.jpg" />
+
