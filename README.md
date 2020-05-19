@@ -15,4 +15,4 @@
 <img src="0.jpg" />
 
 #Future Plan
-<p>I woul dlike to develop this onto a good blog I can add favourite places. This is using mySQL database, I would like to add remote database for github deployment in the future.</p>
+<p>I would like to develop this onto a good blog I can add favourite places. This is using mySQL database, I would like to add remote database for github deployment in the future.</p>
